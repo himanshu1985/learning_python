@@ -1,20 +1,20 @@
-thislist = ["apple", "Banana", "orange"]
+this_list = ["apple", "Banana", "orange"]
 
-print(thislist)
+print(this_list)
 
-print (thislist[1])
+print (this_list[1])
 
-thislist[1] = "blackforest"
+this_list[1] = "blackforest"
+0
+print(this_list)
 
-print(thislist)
-
-for x in thislist:
+for x in this_list:
     print(x)
 
-if "apple" in thislist:
-    print("Yes, Apple is in thislist")
+if "apple" in this_list:
+    print("Yes, Apple is in this_list")
 
-print(len(thislist))
+print(len(this_list))
 
-thislist.append("grapes")
-print(thislist)
+this_list.append("grapes")
+print(this_list)
