@@ -1,3 +1,6 @@
+"""we can use the module we just created, by using the import statement,
+choose to import only parts from a module, by using the from keyword."""
+
 import template as sir
 import platform
 sir.greeting("Himanshu")
@@ -13,7 +16,7 @@ print(x) # builtin function
 
 from template import person
 
-print(person["designation"])  #You can choose to import only parts from a module, by using the from keyword.
+print(person["designation"])  # You can choose to import only parts from a module, by using the from keyword.
 
 
 
