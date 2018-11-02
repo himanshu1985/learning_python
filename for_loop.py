@@ -33,10 +33,21 @@ for x in adj:
     for y in fruits:
         print(y, x)  # A nested loop is a loop inside a loop, Print each adjective for every fruit
 
-def cal_factorial(x):
-    if x == 1:
-        return 1
+
+def tri_recursion(k):
+    if k > 0:
+        result = k + tri_recursion(k-1)
+        print(result)
     else:
-        return(x * cal_factorial(x-1))
-x = 4
-print("The factorial of ", x, "is", cal_factorial(x))  # Recursion is a common mathematical and programming concept. It means that a function calls itself
+        result = 0
+    return result
+
+
+print('\n\nRecursion is used now ')
+tri_recursion(6)
+
+
+# Recursion is a common mathematical and programming concept. It means that a function calls itself
+
+
+

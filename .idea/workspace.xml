@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6de62e2-c90d-4d79-97ef-f9772bbc9261" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+<<<<<<< HEAD
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tatement we can stop the loop before it has looped through all the items" beforeDir="false" />
+=======
+>>>>>>> bfc2230e68343f29c07e0e52f6ac6e0ec30a8240
       <change beforePath="$PROJECT_DIR$/function.py" beforeDir="false" afterPath="$PROJECT_DIR$/function.py" afterDir="false" />
+>>>>>>> ff8e19a1521f773fc9a2af8aa7209dc7046f4018
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,18 +23,36 @@
     <session id="52101754">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+<<<<<<< HEAD
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.opened" value="3" />
+=======
           <entry key="project.open.time.0" value="1" />
           <entry key="project.opened" value="1" />
+>>>>>>> ff8e19a1521f773fc9a2af8aa7209dc7046f4018
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+<<<<<<< HEAD
+          <entry key="py" value="16" />
+          <entry key="tatement we can stop the loop before it has looped through all the items" value="1" />
+=======
           <entry key="py" value="10" />
+>>>>>>> ff8e19a1521f773fc9a2af8aa7209dc7046f4018
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+<<<<<<< HEAD
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Python" value="16" />
+=======
           <entry key="Python" value="10" />
+>>>>>>> ff8e19a1521f773fc9a2af8aa7209dc7046f4018
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -75,6 +101,9 @@
     </session>
   </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
+    <leaf />
+=======
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/function.py">
@@ -89,6 +118,7 @@
         </entry>
       </file>
     </leaf>
+>>>>>>> ff8e19a1521f773fc9a2af8aa7209dc7046f4018
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -182,7 +212,11 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
+<<<<<<< HEAD
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25637585" />
+=======
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24907063" />
+>>>>>>> ff8e19a1521f773fc9a2af8aa7209dc7046f4018
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -271,5 +305,6 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/tatement we can stop the loop before it has looped through all the items" />
   </component>
 </project>
